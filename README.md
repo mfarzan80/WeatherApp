@@ -9,7 +9,7 @@ https://www.dropbox.com/s/d9erg3thgav5rou/weatherApp.apk?dl=1
 
 ### Features
 
-- َAdd multiple cities and view their weather
+- Add multiple cities and view their weather
 - Find the location and display the weather condition of that area
 - Weather forecast for the next 5 days
 - Observation of air temperature in Celsius and Fahrenheit degree
