@@ -6,6 +6,16 @@ An application to display the weather conditions of all cities in the world
 
 https://www.dropbox.com/s/d9erg3thgav5rou/weatherApp.apk?dl=1
 
+
+### Features
+
+- َAdd multiple cities and view their weather
+- Find the location and display the weather condition of that area
+- Weather forecast for the next 5 days
+- Observation of air temperature in Celsius and Fahrenheit degree
+
+
+
 ### Screenshots
 
 ![Screenshot_2022-07-26-11-24-09-297_m farzan weatherapp](https://user-images.githubusercontent.com/60168299/181104166-b6a78b1a-30b2-4c0f-be3a-9a3dd68f5fa3.jpg)
