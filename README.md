@@ -2,7 +2,7 @@
 An application to display the weather conditions of all cities in the world
 
 
-### Download link
+### Download 
 
 https://www.dropbox.com/s/d9erg3thgav5rou/weatherApp.apk?dl=1
 
